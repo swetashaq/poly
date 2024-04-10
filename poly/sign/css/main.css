@@ -1,0 +1,354 @@
+.body {
+  font-family: Avenir;
+}
+
+.navbar {
+  box-shadow: 0 2px 24px 0 rgb(0 0 0 / 4%);
+  height: 88px;
+}
+
+.navbar-collapse {
+  color: #045493;
+}
+
+#frontnav {
+  z-index: 10;
+  width: 100%;
+  position: absolute;
+  box-shadow: 0 2px 24px 0 rgb(0 0 0 / 4%);
+  height: 88px;
+}
+
+.section--hero-image {
+  height: 670px;
+  position: relative;
+  background-image: url(../img/Group\ 8@2x.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 160px;
+  padding-bottom: 80;
+}
+
+.hero-text {
+  font-size: 56px;
+  font-weight: 620;
+  margin-bottom: 16px;
+}
+
+.text {
+  font-size: 21px;
+  font-weight: 300;
+  opacity: 0.8;
+}
+
+.btn-light {
+  color: #212529;
+  border-radius: 6px;
+  width: 145px;
+  height: 50px;
+}
+
+.blog__image {
+  padding-top: 55%;
+  border-radius: 6px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.section--bg-image {
+  background-position: right -24rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.section--bg-left {
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-bottom: 100px;
+}
+
+.gap {
+  margin-top: 88px;
+  margin-bottom: 88px;
+}
+
+.bg-light-colour {
+  padding-top: 70px;
+  background-color: rgba(154, 211, 255, 0.09);
+}
+
+.teammate__image {
+  padding-top: 55%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.teammate__name {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.teammate__job {
+  font-size: 18px;
+  opacity: 0.8;
+}
+
+.teammate__achieve {
+  font-size: 18px;
+  opacity: 0.8;
+}
+
+.ml-auto {
+  margin-left: auto !important;
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+.form_img {
+  padding-top: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.content {
+  font-size: 20px;
+  line-height: 27px;
+  opacity: 0.8;
+  font-weight: 400;
+  color: #0f0f0f;
+}
+
+.mb-5 {
+  margin-bottom: 3rem !important;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+  padding-right: 130px;
+}
+
+.section {
+  border: 1px solid transparent;
+}
+
+.form-control {
+  border: 1px solid #d0d8e5;
+  border-radius: 4px;
+  padding: 0.75rem 1.25rem;
+}
+
+#cont {
+  padding-right: 130px;
+}
+
+.head {
+  padding-top: 50px;
+  font-size: 40px;
+  line-height: 60px;
+  color: #045493;
+}
+
+.head--first {
+  font-size: 48px;
+  line-height: 60px;
+  color: #045493;
+}
+
+.head--second {
+  font-size: 32px;
+  line-height: 60px;
+  color: #045493;
+}
+
+.content--text {
+  margin-top: 5.5rem;
+  margin-bottom: 5.5rem;
+}
+
+.blog-explain {
+  opacity: 0.8;
+  color: #292929;
+  font-size: 24px;
+  text-align: center;
+  line-height: 40px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.blog-name {
+  opacity: 0.8;
+  color: #292929;
+  font-size: 24px;
+  text-align: center;
+}
+
+.imagefirst {
+  padding-top: 70px;
+  height: 100px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.heading {
+  font-size: 36px;
+  line-height: 48px;
+}
+
+.btn-primary {
+  height: 56px;
+  width: 290px;
+  background-color: #045493;
+  border-radius: 4px;
+}
+
+.btn-secondary {
+  height: 50px;
+  width: 150px;
+  background-color: #045493;
+  border-radius: 8px;
+}
+
+.imagefirst {
+  height: 500px;
+  width: 100%;
+}
+
+.placeholder {
+  background-color: #ffffff;
+}
+
+.placeholder__topic {
+  font-size: 24px;
+  color: #000000;
+  font-weight: 650;
+}
+
+.placeholder__detail {
+  font-size: 20px;
+  color: #596268;
+  font-weight: 500;
+}
+
+.positions {
+  border-color: #596268;
+}
+
+.placeholder__image {
+  padding-top: 55%;
+  border-radius: 6px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.image_first {
+  background-image: url(../img/work2.jpg);
+  background-position: center;
+  height: 900px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.image_second {
+  background-image: url(../img/work4.jpg);
+  background-position: top;
+  height: 900px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.section--bg-right {
+  background-position: right 20rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-bottom: 100px;
+}
+
+.section--bg-left {
+  margin-top: 4.5rem;
+  margin-bottom: 4.5rem;
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-bottom: 100px;
+}
+
+.lm {
+  text-decoration: none;
+}
+
+#links a {
+  color: #000000;
+}
+
+#link a {
+  color: #045493;
+}
+
+.card-address {
+  opacity: 0.8;
+  color: #a8ad80;
+  font-size: 14px;
+}
+
+.card-salary {
+  font-size: 16px;
+  color: #596268;
+}
+
+.apply {
+  font-size: 14px;
+  font-family: "Lucida Grande";
+  color: #596268;
+  text-decoration: none;
+}
+
+.job {
+  font-size: 20px;
+  color: #045493;
+  text-decoration: none;
+}
+
+.section--open {
+  padding-bottom: 100px;
+}
+
+.twit {
+  height: 24px;
+  width: 24px;
+}
+
+.navbar-light .navbar-toggler {
+  color: #045493;
+}
+
+@media (max-width: 992px) {
+  .section--bg-left {
+    background-size: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .blog__image {
+    order: 0;
+  }
+}
